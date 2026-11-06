@@ -1,0 +1,7 @@
+# Notebook interface only: this does not install HoloPy or the scientific stack.
+# First select a compatible HoloPy environment and run check_environment.ipynb.
+# Prefer check_environment_code.py --install-interface to install missing packages only.
+# These are the interface versions used for validation.
+ipywidgets==8.1.7
+ipympl==0.9.7
+ipykernel==6.30.1
